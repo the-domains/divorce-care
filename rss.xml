@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Divorce Care]]></title>
         <description><![CDATA[Divorce Care]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/divorce-care/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Aug 2016 18:07:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 08 Aug 2016 18:09:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/divorce-care/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>If you are divorced, in the process, of divorce, or just thinking about divorce...Divorce Care is for you! Come check it out!!</p>]]></description>
-            <link>undefinedif-you-are-divorced-in-the-process-of-divorce-or-just-thi/index.html</link>
+            <link>https://thegrid.ai/divorce-care/if-you-are-divorced-in-the-process-of-divorce-or-just-thi/index.html</link>
             <guid isPermaLink="false">3010a4c5-026d-4d05-bd4c-91677bcd39f0</guid>
-            <pubDate>Mon, 08 Aug 2016 18:07:54 GMT</pubDate>
+            <pubDate>Mon, 08 Aug 2016 18:09:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
